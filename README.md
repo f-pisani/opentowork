@@ -3,7 +3,6 @@
 # Florian Pisani
 https://www.linkedin.com/in/f-pisani/
 
-<hr>
 
 ## Experience
 ### Full Stack Developer
@@ -47,7 +46,6 @@ https://www.linkedin.com/in/f-pisani/
 ### Equipier de polyvalent
 **McDonald's France** • *2014-08 / 2015-09*
 
-<hr>
 
 ## Formation
 ### OpenClassrooms
