@@ -5,28 +5,47 @@ https://www.linkedin.com/in/f-pisani/
 
 
 ## Experience
+### Backend Engineer
+**Free SAS** • *2022-04 / 2024-03*
+
+Au sein de la DSI Fibre, j'ai intégré une équipe de 16 personnes et assumé plusieurs missions, notamment :
+- Implémentation et maintenance de webservices conformes aux protocoles établis par Interop'fibre
+- Création de webservices internes destinés aux différents pôles de la DSI
+- Maintenance d'un monolithe PHP (5.6) natif et de webservices PHP (7.4/8.1) natif / laravel
+- Supervision des webservices et des flux de données avec les opérateurs tiers
+- Rôle de référent technique sur la stack Go, coaching de l'équipe autour des bonnes pratiques et de l'écosystème
+- Pilotage de la transition d'un framework interne Go vers des solutions open source alternatives 
+(Gin, Gorm, Logrus, Viper, Cobra, etc.)
+- Mise en place de la stack Prometheus / Grafana pour gérer le monitoring de plusieurs Docker Swarm ainsi que les stacks 
+qui tournent dessus (via le service discovery de Prometheus)
+- Optimisation des images Docker et normalisation des Gitlab CI
+- Création et mise à disposition de documentation technique dédiée aux développeurs
+- Sessions de pair programming favorisant le partage de connaissances, l'entraide et l'avancement des projets
+
 ### Full Stack Developer
 **Digifactory - Logiciel SaaS** • *2018-12 / 2022-01*
-- Conception et implémentation de nouvelles fonctionnalités au sein du logiciel SaaS (CRM, ERP, CMS, Marketing, Production, Event)
-- Correction de bugs et évolution de l'existant (PHP 5 legacy, monté en version sur PHP 7.4 vanilla, framework interne)
-- Conception et implémentation d'un nouveau workflow CI/CD (multi-instance) basé sur Git
-- Mise en place de PHPUnit et de tests unitaires/intégration
-- Sensibilisation de l'équipe de développement aux principes SOLID, DRY, KISS, YAGNI et aux PSRs
 
+Plateforme SaaS dédiée aux acteurs de l'événementiel (agences, traiteurs, loueurs de salles, etc.) 
+permettant de répondre à leurs différents besoins : CRM,Emailing, E-commerce, CMS, Gestion de Projet, Événements, etc.
 
-- Gestion de projet (prise de briefs, rédaction cdc, envoi de devis, suivi des temps passés, up-selling, ...)
-- Conception, réalisation et maintenance de projets clients (e-commerce, sites évènementiels, développements sur mesure (écrans de stats, exports dédiés, interfaçages, ...))
+En tant que développeur, j'ai réalisé les missions suivantes :
+- Transition réussie de PHP 5.6 vers PHP 7.4 et mise à jour du framework interne
+- Sensibilisation de l'équipe de développement aux bonnes pratiques de développement 
+(principes SOLID, DRY, KISS, YAGNI et les PSR) pour améliorer laqualité, la maintenabilité 
+et la testabilité de la solution
+- Mise en place de PHPUnit et de tests pour prévenir des régressions
+- Création d'une solution de CI/CD sur-mesure pour la mise à jour des différentes instances
+- Configuration et déploiement de la stack ELK pour permettre le monitoring et l'agrégation de logs
+- Conception et implémentation de nouvelles fonctionnalités, maintenance et résolution de bugs
+- Conception, réalisation et maintenance de divers projets clients 
+(e-commerce,sites événementiels, développements sur mesure, etc.)
+- Renforcement des compétences des acteurs internes (développeurs, chefs de projet, commerciaux) autour de la plateforme
 
-
-- Montée en compétences des acteurs internes (développeurs, chef de projet, commerciaux) autour du logiciel
-- Suivi des demandes HelpDesk (formation, accompagnement, support, résolution de problèmes)
-- Sessions de formation clients
-
-### Crypto Day Trader
-**Auto-entrepreneur** • *2017-07 / 2018-12*
-- Trading de crypto-monnaies
-- Suivi des cours sur divers exchanges Bitmex, Poloniex, Coinbase, Binance, ...
-- Suivi des évolutions autour de la technologie Blockchain
+En tant que chef de projet, j'ai également assumé les responsabilités suivantes :
+- Gestion des briefs clients, rédaction de cahiers des charges, devis, suivi des temps passés et up-selling
+- Suivi des tickets HelpDesk pour assurer la formation, l'accompagnement, le support et la résolution des 
+problèmes rencontrés par les utilisateurs
+- Mise en place et animation de sessions de formation pour les utilisateurs
 
 ### Manager Opérationnel
 **BURGER KING France** • *2016-09 / 2017-11*
